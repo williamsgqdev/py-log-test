@@ -1,0 +1,10 @@
+{"fatal": "Fatal error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"warning": "Warning error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"fatal": "Fatal error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"fatal": "Fatal error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"fatal": "Fatal error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"fatal": "Fatal error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"warning": "Warning error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"fatal": "Fatal error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"fatal": "Fatal error", "timestamps": "2025-01-29T14:30:00.123456"}
+{"warning": "Warning error", "timestamps": "2025-01-29T14:30:00.123456"}
